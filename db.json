@@ -1,0 +1,50 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "nume": "Clark1",
+      "prenume": "Kent",
+      "numeErou": "Superman"
+    },
+    {
+      "id": 2,
+      "nume": "Odinson",
+      "prenume": "Thor",
+      "numeErou": "Thor"
+    },
+    {
+      "id": 3,
+      "nume": "Stark",
+      "prenume": "Tony",
+      "numeErou": "Iron Man "
+    },
+    {
+      "id": 4,
+      "nume": "Banner",
+      "prenume": "Bruce",
+      "numeErou": "Hulk"
+    }
+  ],
+  "superPowers": [
+    {
+      "id": 1,
+      "superPutere": "laser frate",
+      "heroId": 1
+    },
+    {
+      "id": 2,
+      "superPutere": "ciocan fermecat",
+      "heroId": 2
+    },
+    {
+      "id": 3,
+      "superPutere": "costum hi tech",
+      "heroId": 3
+    },
+    {
+      "id": 4,
+      "superPutere": "forta",
+      "heroId": 4
+    }
+  ]
+}
